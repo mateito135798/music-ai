@@ -1,0 +1,26 @@
+.titel{
+    font-size:12.5px;
+    width:100%;
+    ;
+}
+body{background-size: cover;}
+
+.vel{
+float:left;}
+.disk1{width:200px;}
+
+.vol{
+    float:right;}
+.disk2{width:200px;}
+
+.play{
+width:145px;
+font-size:25px;
+
+}
+
+canvas{
+
+    border:5px solid white;
+    border-radius:20px;
+}
