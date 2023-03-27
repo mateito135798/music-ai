@@ -36,7 +36,7 @@ document.getElementById("vel").innerHTML="vel: 0.5"
     cansion.rate(1.5);
     document.getElementById("vel").innerHTML="vel: 1.5"
 }
-var NLY=Number(NY);
+var NLY=Number(LY);
 var NLYD=floor(NLY);
 var NLYD5=NLYD/500;
 cansion.setVolume(NLYD5);
